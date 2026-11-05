@@ -1,9 +1,19 @@
 <!-- PUBLISH AFTER: website-to-markdown is public on the Apify Store -->
 # Website to Markdown Crawler: Python example
 
-> Website to Markdown Crawler is being prepared for the Apify Store. The link below goes live when it is published.
+**The problem:** You want a website's text as clean Markdown for an AI assistant, a RAG index or a search tool, instead of raw HTML.
 
-A small, runnable example for [Website to Markdown Crawler](https://apify.com/aurelix/website-to-markdown), an Apify Actor by Aurelix.
+**The tool:** [Website to Markdown Crawler](https://apify.com/aurelix/website-to-markdown), an Apify Actor by Aurelix. This repository is a small, runnable Python example for it.
+
+**The price:** $1.50 per 1,000 pages on Apify's free plan and $1.05 on paid plans, plus $0.001 per run; you pay only for results. Apify's free plan includes $5 of credit a month.
+
+**Try it** (needs an Apify API token from Console > Settings > API & Integrations):
+
+```bash
+pip install -r requirements.txt
+export APIFY_TOKEN=your_token_here
+python main.py
+```
 
 [![Website to Markdown Crawler: 75-second demo video](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/website-to-markdown-demo-thumb-v1.png)](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/website-to-markdown-demo-v1.mp4)
 
