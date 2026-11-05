@@ -5,6 +5,10 @@
 
 A small, runnable example for [Website to Markdown Crawler](https://apify.com/aurelix/website-to-markdown), an Apify Actor by Aurelix.
 
+[![Website to Markdown Crawler: 75-second demo video](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/website-to-markdown-demo-thumb-v1.png)](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/website-to-markdown-demo-v1.mp4)
+
+**[▶ Watch the 75-second demo](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/website-to-markdown-demo-v1.mp4)**
+
 ## What it does
 
 Website to Markdown Crawler crawls a website and turns each page into one row of clean Markdown of its main content, with navigation, headers, footers, sidebars, cookie banners and scripts stripped and headings, lists, tables, code blocks and links kept. Each row also carries the URL, title, meta description, language, last-modified date, headings, links and word count for chunking and citations. Crawl one docs section or the whole site, with include and exclude URL globs.
